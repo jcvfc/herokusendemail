@@ -12,7 +12,7 @@
 
     <servlet>
         <servlet-name>MainServlet</servlet-name>
-        <servlet-class>Main</servlet-class>
+        <servlet-class>SendSurvey</servlet-class>
     </servlet>
 
     <servlet-mapping>
